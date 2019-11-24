@@ -1,0 +1,2 @@
+# NationalParksInformationSite
+A website which provides information on various national parks, including a weather forecast and tips for travelers. Allows users to choose whether they would like to view weather information in Celsius or Fahrenheit, complete a survey, and view all survey results. Created with a partner for a class assignment. Written in C#, using the .NET framework, SQL Server, and the MVC design pattern. 
